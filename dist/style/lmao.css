@@ -1,0 +1,17 @@
+p{
+    color: palevioletred;
+    text-align: center;
+    font-size: 20px;
+}
+
+h1{
+    color: palevioletred;
+    text-align: center;
+    font-size: 30px;
+}
+
+html{
+    background-color: #121212;
+    font-family: Poppins;
+    text-shadow: 2px 2px 1px black;
+}
